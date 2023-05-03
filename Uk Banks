@@ -1,23 +1,24 @@
 #monzo
-public-images.monzo.com
-internal-api.monzo.com
-monzo.statuspage.io
-internal-api.monzo.com
+DOMAIN-SUFFIX, public-images.monzo.com
+DOMAIN-SUFFIX, internal-api.monzo.com
+DOMAIN-SUFFIX, monzo.statuspage.io
+DOMAIN-SUFFIX, internal-api.monzo.com
 #algbra
-app.adjust.com
-bff.euw2.prod-algbra.com
+DOMAIN-SUFFIX, app.adjust.com
+DOMAIN-SUFFIX, bff.euw2.prod-algbra.com
 #neteller
-mobile-api.neteller.com:443
-h-sdk.online-metrix.net:8080 mobileapi.sportradar.com:443
+DOMAIN-SUFFIX, mobile-api.neteller.com
+DOMAIN-SUFFIX, h-sdk.online-metrix.net
+DOMAIN-SUFFIX, mobileapi.sportradar.com
 #hyperjar
-cdn.hyperjar.com:443
-cdn.branch.io:443
+DOMAIN-SUFFIX, cdn.hyperjar.com
+DOMAIN-SUFFIX, cdn.branch.io
 #hsbc
-cdntm.hsbc.com.au:8080
-rbwm-api.hsbc.com.hk:443
-status.mobilex.vpc.hsbc.co.uk:443
-cdnbc-wup.hsbc.com.au:443
-www.m.security.online-banking.hsbc.com.au:443
-www.hsbc.com.au:443
-zn8dqasukr2ma4z3l-hsbcdigital.siteintercept.qualtrics.com:443
-eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com:443
+DOMAIN-SUFFIX, cdntm.hsbc.com.au
+DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
+DOMAIN-SUFFIX, status.mobilex.vpc.hsbc.co.uk
+DOMAIN-SUFFIX, cdnbc-wup.hsbc.com.au
+DOMAIN-SUFFIX, www.m.security.online-banking.hsbc.com.au
+DOMAIN-SUFFIX, www.hsbc.com.au
+DOMAIN-SUFFIX, zn8dqasukr2ma4z3l-hsbcdigital.siteintercept.qualtrics.com
+DOMAIN-SUFFIX, eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com
