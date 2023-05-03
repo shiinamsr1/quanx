@@ -1,0 +1,23 @@
+#monzo
+public-images.monzo.com
+internal-api.monzo.com
+monzo.statuspage.io
+internal-api.monzo.com
+#algbra
+app.adjust.com
+bff.euw2.prod-algbra.com
+#neteller
+mobile-api.neteller.com:443
+h-sdk.online-metrix.net:8080 mobileapi.sportradar.com:443
+#hyperjar
+cdn.hyperjar.com:443
+cdn.branch.io:443
+#hsbc
+cdntm.hsbc.com.au:8080
+rbwm-api.hsbc.com.hk:443
+status.mobilex.vpc.hsbc.co.uk:443
+cdnbc-wup.hsbc.com.au:443
+www.m.security.online-banking.hsbc.com.au:443
+www.hsbc.com.au:443
+zn8dqasukr2ma4z3l-hsbcdigital.siteintercept.qualtrics.com:443
+eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com:443
