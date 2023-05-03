@@ -3,6 +3,7 @@ DOMAIN-SUFFIX, public-images.monzo.com
 DOMAIN-SUFFIX, internal-api.monzo.com
 DOMAIN-SUFFIX, monzo.statuspage.io
 DOMAIN-SUFFIX, internal-api.monzo.com
+DOMAIN-SUFFIX,  sdk.fra-01.braze.eu
 #algbra
 DOMAIN-SUFFIX, app.adjust.com
 DOMAIN-SUFFIX, bff.euw2.prod-algbra.com
