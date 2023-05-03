@@ -16,7 +16,10 @@ DOMAIN-SUFFIX, api.pushio.com
 DOMAIN-SUFFIX, h.online-metrix.net
 DOMAIN-SUFFIX, cdn1.skrill.com
 DOMAIN-SUFFIX, aa.online-metrix.net
+DOMAIN-SUFFIX, eu-aa.online-metrix.net
+DOMAIN-SUFFIX, widgets.sir.sportradar.com
 DOMAIN-SUFFIX, widgets.media.sportradar.com
+DOMAIN-SUFFIX, nfl.sdfeeds.sportradar.com
 DOMAIN-SUFFIX, fra-col.eum-appdynamics.com
 DOMAIN-SUFFIX, sru4c3g1gs3whcs7ucbogsdrclb7ikwme4qojphg29e6eb91e80acd33sac.d.aa.online-metrix.net
 #hyperjar
