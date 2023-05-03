@@ -14,8 +14,10 @@ DOMAIN-SUFFIX, h-sdk.online-metrix.net
 DOMAIN-SUFFIX, mobileapi.sportradar.com
 #hyperjar
 DOMAIN-SUFFIX, cdn.hyperjar.com
+DOMAIN-SUFFIX, api.hyperjar.com
 DOMAIN-SUFFIX, cdn.branch.io
 DOMAIN-SUFFIX, api2.branch.io
+DOMAIN-SUFFIX, hj-cdn-staging.hyperjardev.com
 
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
