@@ -5,11 +5,16 @@ DOMAIN-SUFFIX, monzo.statuspage.io
 DOMAIN-SUFFIX, internal-api.monzo.com
 DOMAIN-SUFFIX, sdk.fra-01.braze.eu
 DOMAIN-SUFFIX, ws-eu.pusher.com
-DOMAIN-SUFFIX, s3-eu-west-1.amazonaws.com
 
 #algbra
 DOMAIN-SUFFIX, app.adjust.com
 DOMAIN-SUFFIX, bff.euw2.prod-algbra.com
+#skrill
+DOMAIN-SUFFIX, prlocal-neteller-showcase-18.eu.paysafecorp.com
+DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
+DOMAIN-SUFFIX, cdn.optimizely.com
+DOMAIN-SUFFIX, mobile-api.skrill.com
+DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
 #neteller
 DOMAIN-SUFFIX, mobile-api.neteller.com
 DOMAIN-SUFFIX, h-sdk.online-metrix.net
@@ -27,9 +32,18 @@ DOMAIN-SUFFIX, sru4c3g1gs3whcs7ucbogsdrclb7ikwme4qojphg29e6eb91e80acd33sac.d.aa.
 #hyperjar
 DOMAIN-SUFFIX, cdn.hyperjar.com
 DOMAIN-SUFFIX, api.hyperjar.com
-DOMAIN-SUFFIX, cdn.branch.io
-DOMAIN-SUFFIX, api2.branch.io
 DOMAIN-SUFFIX, hj-cdn-staging.hyperjardev.com
+#chase uk
+DOMAIN-SUFFIX, h.chase.co.uk
+DOMAIN-SUFFIX, api.chase.co.uk
+
+#Credit Karma
+DOMAIN-SUFFIX, bam.nr-data.net
+DOMAIN-SUFFIX, www.creditkarma.co.uk 
+DOMAIN-SUFFIX, api.creditkarma.co.uk
+DOMAIN-SUFFIX, sponge.creditkarma.co.uk
+DOMAIN-SUFFIX, firebase-settings.crashlytics.com
+DOMAIN-SUFFIX, creditkarmacdn-a.akamaihd.net
 
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
