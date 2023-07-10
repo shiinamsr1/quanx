@@ -47,6 +47,19 @@ DOMAIN-SUFFIX, sponge.creditkarma.co.uk
 DOMAIN-SUFFIX, firebase-settings.crashlytics.com
 DOMAIN-SUFFIX, creditkarmacdn-a.akamaihd.net
 
+#Experian
+DOMAIN-SUFFIX, creditmatcher.experian.co.uk
+DOMAIN-SUFFIX, ins.experian.co.uk
+DOMAIN-SUFFIX, identity.experian.co.uk
+DOMAIN-SUFFIX, tags.experian.co.uk
+DOMAIN-SUFFIX, lock.experian.co.uk
+DOMAIN-SUFFIX, home.experian.co.uk
+DOMAIN-SUFFIX, cdn.experian-agents.com
+DOMAIN-SUFFIX, data.experian.co.uk 
+DOMAIN-SUFFIX, collector-12099.tvsquared.com
+DOMAIN-SUFFIX, events.split.io 
+DOMAIN-SUFFIX, auth.split.io
+
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
 DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
