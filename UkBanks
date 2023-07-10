@@ -31,8 +31,6 @@ DOMAIN-SUFFIX, sru4c3g1gs3whcs7ucbogsdrclb7ikwme4qojphg29e6eb91e80acd33sac.d.aa.
 #hyperjar
 DOMAIN-SUFFIX, cdn.hyperjar.com
 DOMAIN-SUFFIX, api.hyperjar.com
-DOMAIN-SUFFIX, cdn.branch.io
-DOMAIN-SUFFIX, api2.branch.io
 DOMAIN-SUFFIX, hj-cdn-staging.hyperjardev.com
 #chase uk
 DOMAIN-SUFFIX, h.chase.co.uk
