@@ -36,6 +36,7 @@ DOMAIN-SUFFIX, api2.branch.io
 DOMAIN-SUFFIX, hj-cdn-staging.hyperjardev.com
 #chase uk
 DOMAIN-SUFFIX, h.chase.co.uk
+DOMAIN-SUFFIX, api.chase.co.uk
 
 #Credit Karma
 DOMAIN-SUFFIX,  bam.nr-data.net
