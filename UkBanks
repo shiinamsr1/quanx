@@ -44,6 +44,7 @@ DOMAIN-SUFFIX, www.creditkarma.co.uk
 DOMAIN-SUFFIX, api.creditkarma.co.uk
 DOMAIN-SUFFIX, sponge.creditkarma.co.uk
 DOMAIN-SUFFIX, firebase-settings.crashlytics.com
+DOMAIN-SUFFIX, creditkarmacdn-a.akamaihd.net
 
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
