@@ -16,6 +16,8 @@ DOMAIN-SUFFIX, cdn.optimizely.com
 DOMAIN-SUFFIX, mobile-api.skrill.com
 DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
 #neteller
+DOMAIN-SUFFIX, www.neteller.com
+DOMAIN-SUFFIX, showcase.neteller.com
 DOMAIN-SUFFIX, mobile-api.neteller.com
 DOMAIN-SUFFIX, h-sdk.online-metrix.net
 DOMAIN-SUFFIX, mobileapi.sportradar.com
