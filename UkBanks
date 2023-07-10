@@ -14,6 +14,7 @@ DOMAIN-SUFFIX, prlocal-neteller-showcase-18.eu.paysafecorp.com
 DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
 DOMAIN-SUFFIX, cdn.optimizely.com
 DOMAIN-SUFFIX, mobile-api.skrill.com
+DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
 #neteller
 DOMAIN-SUFFIX, mobile-api.neteller.com
 DOMAIN-SUFFIX, h-sdk.online-metrix.net
