@@ -34,6 +34,8 @@ DOMAIN-SUFFIX, api.hyperjar.com
 DOMAIN-SUFFIX, cdn.branch.io
 DOMAIN-SUFFIX, api2.branch.io
 DOMAIN-SUFFIX, hj-cdn-staging.hyperjardev.com
+#chase uk
+DOMAIN-SUFFIX, h.chase.co.uk
 
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
