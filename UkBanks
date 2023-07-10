@@ -39,11 +39,11 @@ DOMAIN-SUFFIX, h.chase.co.uk
 DOMAIN-SUFFIX, api.chase.co.uk
 
 #Credit Karma
-DOMAIN-SUFFIX,  bam.nr-data.net
-DOMAIN-SUFFIX,  www.creditkarma.co.uk 
-DOMAIN-SUFFIX,  api.creditkarma.co.uk
-DOMAIN-SUFFIX,  sponge.creditkarma.co.uk
-DOMAIN-SUFFIX,  firebase-settings.crashlytics.com
+DOMAIN-SUFFIX, bam.nr-data.net
+DOMAIN-SUFFIX, www.creditkarma.co.uk 
+DOMAIN-SUFFIX, api.creditkarma.co.uk
+DOMAIN-SUFFIX, sponge.creditkarma.co.uk
+DOMAIN-SUFFIX, firebase-settings.crashlytics.com
 
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
