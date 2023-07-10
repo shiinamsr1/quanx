@@ -6,6 +6,16 @@ DOMAIN-SUFFIX, internal-api.monzo.com
 DOMAIN-SUFFIX, sdk.fra-01.braze.eu
 DOMAIN-SUFFIX, ws-eu.pusher.com
 
+#chase uk
+DOMAIN-SUFFIX, h.chase.co.uk
+DOMAIN-SUFFIX, api.chase.co.uk
+DOMAIN-SUFFIX, identity.mparticle.com
+DOMAIN-SUFFIX, nativesdks.mparticle.com
+DOMAIN-SUFFIX, cdn.zimperium.com
+DOMAIN-SUFFIX, stest.zimperium.com
+DOMAIN-SUFFIX, mpi-prod.zimperium.com
+DOMAIN-SUFFIX, mpiprod-rfd.zimperium.com
+
 #algbra
 DOMAIN-SUFFIX, app.adjust.com
 DOMAIN-SUFFIX, bff.euw2.prod-algbra.com
@@ -35,9 +45,6 @@ DOMAIN-SUFFIX, sru4c3g1gs3whcs7ucbogsdrclb7ikwme4qojphg29e6eb91e80acd33sac.d.aa.
 DOMAIN-SUFFIX, cdn.hyperjar.com
 DOMAIN-SUFFIX, api.hyperjar.com
 DOMAIN-SUFFIX, hj-cdn-staging.hyperjardev.com
-#chase uk
-DOMAIN-SUFFIX, h.chase.co.uk
-DOMAIN-SUFFIX, api.chase.co.uk
 
 #Credit Karma
 DOMAIN-SUFFIX, bam.nr-data.net
@@ -46,7 +53,6 @@ DOMAIN-SUFFIX, api.creditkarma.co.uk
 DOMAIN-SUFFIX, sponge.creditkarma.co.uk
 DOMAIN-SUFFIX, firebase-settings.crashlytics.com
 DOMAIN-SUFFIX, creditkarmacdn-a.akamaihd.net
-
 #Experian
 DOMAIN-SUFFIX, creditmatcher.experian.co.uk
 DOMAIN-SUFFIX, ins.experian.co.uk
