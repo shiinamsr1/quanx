@@ -47,6 +47,25 @@ DOMAIN-SUFFIX, sru4c3g1gs3whcs7ucbogsdrclb7ikwme4qojphg29e6eb91e80acd33sac.d.aa.
 DOMAIN-SUFFIX, cdn.hyperjar.com
 DOMAIN-SUFFIX, api.hyperjar.com
 DOMAIN-SUFFIX, hj-cdn-staging.hyperjardev.com
+#The credit thing
+DOMAIN-SUFFIX, bus-ext.getkoto.com
+DOMAIN-SUFFIX, ava.getkoto.com
+DOMAIN-SUFFIX, zuul-ext.getkoto.com
+DOMAIN-SUFFIX, sites.pps.edenred.com
+#Zilch
+DOMAIN-SUFFIX, assets.payzilch.com
+DOMAIN-SUFFIX, api-eu-ew1-prod.vgs.payzilch.com
+DOMAIN-SUFFIX, api-eu-ew1-prod.payzilch.com
+DOMAIN-SUFFIX, nexus-europe-websocket.intercom.io
+DOMAIN-SUFFIX, message.mdes.mastercard.com
+DOMAIN-SUFFIX, c06rzx4o-ios.mobile-messenger.eu.intercom.io
+DOMAIN-SUFFIX, logs.browser-intake-datadoghq.com
+DOMAIN-SUFFIX, onelink.appsflyer.com
+DOMAIN-SUFFIX, api-eu.mixpanel.com
+DOMAIN-SUFFIX, inapps.appsflyer.com
+DOMAIN-SUFFIX, api.onesignal.com
+DOMAIN-SUFFIX, 7l353r0wt5gp.statuspage.io
+DOMAIN-SUFFIX, api-eu.mixpanel.com
 
 #Credit Karma
 DOMAIN-SUFFIX, bam.nr-data.net
