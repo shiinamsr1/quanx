@@ -82,6 +82,9 @@ DOMAIN-SUFFIX, collector-12099.tvsquared.com
 DOMAIN-SUFFIX, events.split.io 
 DOMAIN-SUFFIX, auth.split.io
 DOMAIN-SUFFIX, www.experianidentityservice.co.uk
+DOMAIN-SUFFIX, api.experian-agents.com
+DOMAIN-SUFFIX, mc1zql1p-3yhh8jdff0lr62yxx68.device.marketingcloudapis.com
+DOMAIN-SUFFIX, sdk.split.io
 
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
