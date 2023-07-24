@@ -27,6 +27,7 @@ DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
 DOMAIN-SUFFIX, cdn.optimizely.com
 DOMAIN-SUFFIX, mobile-api.skrill.com
 DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
+DOMAIN-SUFFIX, account.skrill.com
 #neteller
 DOMAIN-SUFFIX, www.neteller.com
 DOMAIN-SUFFIX, showcase.neteller.com
