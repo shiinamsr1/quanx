@@ -7,6 +7,7 @@ DOMAIN-SUFFIX, sdk.fra-01.braze.eu
 DOMAIN-SUFFIX, ws-eu.pusher.com
 DOMAIN-SUFFIX, api.monzo.com
 DOMAIN-SUFFIX, monzo.com
+DOMAIN-KEYWORD, monzo
 
 #chase uk
 DOMAIN-SUFFIX, h.chase.co.uk
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX, mpiprod-rfd.zimperium.com
 #algbra
 DOMAIN-SUFFIX, app.adjust.com
 DOMAIN-SUFFIX, bff.euw2.prod-algbra.com
+DOMAIN-KEYWORD, algbra
 #skrill
 DOMAIN-SUFFIX, prlocal-neteller-showcase-18.eu.paysafecorp.com
 DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
@@ -28,6 +30,7 @@ DOMAIN-SUFFIX, cdn.optimizely.com
 DOMAIN-SUFFIX, mobile-api.skrill.com
 DOMAIN-SUFFIX, m7tu2-push.oraclersys.com
 DOMAIN-SUFFIX, account.skrill.com
+DOMAIN-KEYWORD, skrill
 #neteller
 DOMAIN-SUFFIX, www.neteller.com
 DOMAIN-SUFFIX, showcase.neteller.com
@@ -44,6 +47,7 @@ DOMAIN-SUFFIX, widgets.media.sportradar.com
 DOMAIN-SUFFIX, nfl.sdfeeds.sportradar.com
 DOMAIN-SUFFIX, fra-col.eum-appdynamics.com
 DOMAIN-SUFFIX, sru4c3g1gs3whcs7ucbogsdrclb7ikwme4qojphg29e6eb91e80acd33sac.d.aa.online-metrix.net
+DOMAIN-KEYWORD, neteller
 #hyperjar
 DOMAIN-SUFFIX, cdn.hyperjar.com
 DOMAIN-SUFFIX, api.hyperjar.com
@@ -86,6 +90,8 @@ DOMAIN-SUFFIX, www.experianidentityservice.co.uk
 DOMAIN-SUFFIX, api.experian-agents.com
 DOMAIN-SUFFIX, mc1zql1p-3yhh8jdff0lr62yxx68.device.marketingcloudapis.com
 DOMAIN-SUFFIX, sdk.split.io
+#equifax
+DOMAIN-KEYWORD, equifax
 
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
