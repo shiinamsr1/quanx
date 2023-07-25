@@ -92,6 +92,7 @@ DOMAIN-SUFFIX, mc1zql1p-3yhh8jdff0lr62yxx68.device.marketingcloudapis.com
 DOMAIN-SUFFIX, sdk.split.io
 #equifax
 DOMAIN-KEYWORD, equifax
+DOMAIN-KEYWORD, equifaxuk
 
 #hsbc
 DOMAIN-SUFFIX, cdntm.hsbc.com.au
