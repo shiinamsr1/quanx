@@ -96,11 +96,11 @@ DOMAIN-KEYWORD, equifax
 DOMAIN-KEYWORD, equifaxuk
 
 #hsbc
-DOMAIN-SUFFIX, cdntm.hsbc.com.au
-DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
-DOMAIN-SUFFIX, status.mobilex.vpc.hsbc.co.uk
-DOMAIN-SUFFIX, cdnbc-wup.hsbc.com.au
-DOMAIN-SUFFIX, www.m.security.online-banking.hsbc.com.au
-DOMAIN-SUFFIX, www.hsbc.com.au
-DOMAIN-SUFFIX, zn8dqasukr2ma4z3l-hsbcdigital.siteintercept.qualtrics.com
-DOMAIN-SUFFIX, eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com
+#DOMAIN-SUFFIX, cdntm.hsbc.com.au
+#DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
+#DOMAIN-SUFFIX, status.mobilex.vpc.hsbc.co.uk
+#DOMAIN-SUFFIX, cdnbc-wup.hsbc.com.au
+#DOMAIN-SUFFIX, www.m.security.online-banking.hsbc.com.au
+#DOMAIN-SUFFIX, www.hsbc.com.au
+#DOMAIN-SUFFIX, zn8dqasukr2ma4z3l-hsbcdigital.siteintercept.qualtrics.com
+#DOMAIN-SUFFIX, eapi.preferences.prod.ap-east-1.vam-hk.cloud1.vv1865.com
