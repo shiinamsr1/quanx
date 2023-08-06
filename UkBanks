@@ -68,6 +68,8 @@ DOMAIN-SUFFIX, logs.browser-intake-datadoghq.com
 DOMAIN-SUFFIX, api.onesignal.com
 DOMAIN-SUFFIX, 7l353r0wt5gp.statuspage.io
 DOMAIN-KEYWORD, zilch
+#Curve
+DOMAIN-KEYWORD, curve
 #Credit Karma
 DOMAIN-SUFFIX, bam.nr-data.net
 DOMAIN-SUFFIX, www.creditkarma.co.uk 
