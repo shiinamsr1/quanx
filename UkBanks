@@ -101,6 +101,9 @@ DOMAIN-KEYWORD, equifaxuk
 DOMAIN-SUFFIX, api.uphold.com
 DOMAIN-SUFFIX, cdn.uphold.com
 DOMAIN-SUFFIX, c.riskified.com
+DOMAIN-SUFFIX, api3.siftscience.com
+DOMAIN-SUFFIX, browser-http-intake.logs.datadoghq.com
+DOMAIN-SUFFIX, c.riskified.com
 #hsbc
 #DOMAIN-SUFFIX, cdntm.hsbc.com.au
 #DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
