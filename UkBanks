@@ -108,6 +108,10 @@ DOMAIN-SUFFIX, uphold.cdn.prismic.io
 DOMAIN-SUFFIX, uphold.com
 DOMAIN-SUFFIX, wallet.uphold.com
 DOMAIN-KEYWORD, uphold
+#sumup pay
+DOMAIN-SUFFIX, api-grpc-live-external.sumup.io
+DOMAIN-SUFFIX, mc7q2pc5cjlf8z2j5-5tqx4nkj10.device.marketingcloudapis.com
+DOMAIN-KEYWORD, sumup
 #hsbc
 #DOMAIN-SUFFIX, cdntm.hsbc.com.au
 #DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
