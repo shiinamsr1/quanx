@@ -11,3 +11,4 @@ DOMAIN-SUFFIX,invoice.stripe.com
 DOMAIN-SUFFIX,stripe.com
 #add poe.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,ab.chatgpt.com
