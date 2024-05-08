@@ -131,6 +131,8 @@ DOMAIN-SUFFIX, dispatcher.is.autonavi.com
 DOMAIN-SUFFIX, tcqe0qwu-ios.mobile-messenger.eu.intercom.io
 DOMAIN-SUFFIX, nexus-europe-websocket.intercom.io
 DOMAIN-SUFFIX, widgets-sandbox.marqeta.com
+DOMAIN-SUFFIX, graphql.datocms.com
+DOMAIN-SUFFIX, unpkg.com
 #hsbc
 #DOMAIN-SUFFIX, cdntm.hsbc.com.au
 #DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
