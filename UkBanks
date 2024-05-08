@@ -123,6 +123,13 @@ DOMAIN-SUFFIX, dc.services.visualstudio.co
 DOMAIN-SUFFIX, accdn.lpsnmedia.net
 DOMAIN-SUFFIX, adminlogin.liveperson.net
 DOMAIN-SUFFIX, mc-xg4npg06tzhbkt1mz3z2xh-5m.device.marketingcloudapis.com
+#Yonder
+DOMAIN-KEYWORD, yonder
+DOMAIN-SUFFIX, widgets.marqeta.com
+DOMAIN-SUFFIX, sdk.fra-01.braze.eu
+DOMAIN-SUFFIX, dispatcher.is.autonavi.com
+DOMAIN-SUFFIX, tcqe0qwu-ios.mobile-messenger.eu.intercom.io
+DOMAIN-SUFFIX, nexus-europe-websocket.intercom.io
 #hsbc
 #DOMAIN-SUFFIX, cdntm.hsbc.com.au
 #DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
