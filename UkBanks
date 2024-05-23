@@ -115,7 +115,6 @@ DOMAIN-KEYWORD, sumup
 #jaja
 DOMAIN-KEYWORD, jaja
 #Marbles Card
-DOMAIN-KEYWORD, newdaycards
 DOMAIN-SUFFIX, portal-mobile.newdaycards.com
 DOMAIN-SUFFIX, lo0.v.liveperson.net
 DOMAIN-SUFFIX, accdn.lpsnmedia.net
@@ -123,6 +122,7 @@ DOMAIN-SUFFIX, dc.services.visualstudio.co
 DOMAIN-SUFFIX, accdn.lpsnmedia.net
 DOMAIN-SUFFIX, adminlogin.liveperson.net
 DOMAIN-SUFFIX, mc-xg4npg06tzhbkt1mz3z2xh-5m.device.marketingcloudapis.com
+DOMAIN-KEYWORD, newdaycards
 #Yonder
 DOMAIN-KEYWORD, yonder
 DOMAIN-SUFFIX, widgets.marqeta.com
@@ -133,6 +133,25 @@ DOMAIN-SUFFIX, nexus-europe-websocket.intercom.io
 DOMAIN-SUFFIX, widgets-sandbox.marqeta.com
 DOMAIN-SUFFIX, graphql.datocms.com
 DOMAIN-SUFFIX, unpkg.com
+
+#zopa
+DOMAIN-SUFFIX, tps-ae.zopa.com
+DOMAIN-SUFFIX, auth.zopa.com
+DOMAIN-SUFFIX, tps-at.zopa.com
+DOMAIN-SUFFIX, savings.zopa.com
+DOMAIN-SUFFIX, borrowing-power-service-api.zopa.com
+DOMAIN-SUFFIX, payments-card-api-gateway.zopa.com
+DOMAIN-SUFFIX, loansapi.zopa.com
+DOMAIN-SUFFIX, membership-hub.zopa.com
+DOMAIN-SUFFIX, view-your-money-mobile-bff.zopa.com
+DOMAIN-SUFFIX, move-your-money-mobile-bff.zopa.com
+DOMAIN-SUFFIX, creditcardsapi.zopa.com
+DOMAIN-SUFFIX, savings-ea-bff.zopa.com
+DOMAIN-SUFFIX, member-prompt-read.zopa.com
+DOMAIN-SUFFIX, insights-service-api.zopa.com
+DOMAIN-SUFFIX, push-notification-service.zopa.com
+DOMAIN-SUFFIX, collections-self-serve-api.zopa.com
+DOMAIN-KEYWORD, zopa
 #hsbc
 #DOMAIN-SUFFIX, cdntm.hsbc.com.au
 #DOMAIN-SUFFIX, rbwm-api.hsbc.com.hk
