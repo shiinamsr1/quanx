@@ -145,7 +145,7 @@ DOMAIN-SUFFIX, tm.barclays.co.uk
 DOMAIN-SUFFIX, wup-6bb5a42d.eu.v2.we-stats.com
 DOMAIN-SUFFIX, barclaysuk.sc.omtrdc.net
 DOMAIN-SUFFIX, ruku664cwh.cliqtrq.com
-DOMAIN-SUFFIX, tags.tiqcdn.com
+#DOMAIN-SUFFIX, tags.tiqcdn.com
 DOMAIN-SUFFIX, http://ocsp.godaddy.com//MEAwPjA8MDowODAHBgUrDgMCGgQUHSNvjgZLlx%2Fd36EVI%2BGu5QK%2BKxsEFDqahQcQZyi27%2Fa9BUFuIMGU2g%2FeAgEH
 DOMAIN-KEYWORD, barclays
 DOMAIN-KEYWORD, Bclays
