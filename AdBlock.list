@@ -1,20 +1,20 @@
 # --- 淘宝广告 ---
-DOMAIN-SUFFIX, adashx.ut.taobao.com, reject
-DOMAIN-SUFFIX, adash.m.taobao.com, reject
-DOMAIN-SUFFIX, adash.man.aliyuncs.com, reject
-DOMAIN-SUFFIX, mjl.adashbc.ut.taobao.com, reject
-DOMAIN-SUFFIX, adashbc.m.taobao.com, reject
-DOMAIN-SUFFIX, adashbc.ut.taobao.com, reject
-DOMAIN-SUFFIX, gm.mmstat.com, reject
+DOMAIN-SUFFIX, adashx.ut.taobao.com
+DOMAIN-SUFFIX, adash.m.taobao.com
+DOMAIN-SUFFIX, adash.man.aliyuncs.com
+DOMAIN-SUFFIX, mjl.adashbc.ut.taobao.com
+DOMAIN-SUFFIX, adashbc.m.taobao.com
+DOMAIN-SUFFIX, adashbc.ut.taobao.com
+DOMAIN-SUFFIX, gm.mmstat.com
 
 # --- 京东广告 ---
-DOMAIN-SUFFIX, api.m.jd.com, reject
-DOMAIN-SUFFIX, ms.jr.jd.com, reject
+DOMAIN-SUFFIX, api.m.jd.com
+DOMAIN-SUFFIX, ms.jr.jd.com
 
 # --- 拼多多广告 ---
-DOMAIN-SUFFIX, api.pinduoduo.com, reject
-DOMAIN-SUFFIX, apiv3.pinduoduo.com, reject
+DOMAIN-SUFFIX, api.pinduoduo.com
+DOMAIN-SUFFIX, apiv3.pinduoduo.com
 
 # --- 微博广告 ---
-DOMAIN-SUFFIX, sdkapp.uve.weibo.com, reject
-DOMAIN-SUFFIX, rm.api.weibo.com, reject
+DOMAIN-SUFFIX, sdkapp.uve.weibo.com
+DOMAIN-SUFFIX, rm.api.weibo.com
