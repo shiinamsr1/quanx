@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,co.uk,UK
+DOMAIN-SUFFIX,gov.uk,UK
+DOMAIN-SUFFIX,ac.uk,UK
+GEOIP,GB,UK
 #monzo
 DOMAIN-SUFFIX, public-images.monzo.com
 DOMAIN-SUFFIX, internal-api.monzo.com
