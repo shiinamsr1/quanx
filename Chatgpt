@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,auth0.openai.com
 DOMAIN-SUFFIX,platform.openai.com
-DOMAIN, ios.chat.openai.com, 𝐒𝐞𝐥𝐞𝐜𝐭
+DOMAIN, ios.chat.openai.com
 
 # Add ai.com
 DOMAIN-SUFFIX,ai.com
