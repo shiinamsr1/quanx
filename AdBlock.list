@@ -18,3 +18,4 @@ DOMAIN-SUFFIX, apiv3.pinduoduo.com
 # --- 微博广告 ---
 DOMAIN-SUFFIX, sdkapp.uve.weibo.com
 DOMAIN-SUFFIX, rm.api.weibo.com
+DOMAIN, kadmimage.biz.weibo.com
