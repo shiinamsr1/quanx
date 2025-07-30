@@ -8,7 +8,7 @@ DOMAIN-SUFFIX, adashbc.ut.taobao.com
 DOMAIN-SUFFIX, gm.mmstat.com
 DOMAIN, h-adashx.ut.taobao.com
 # --- 京东广告 ---
-DOMAIN-SUFFIX, api.m.jd.com
+#DOMAIN-SUFFIX, api.m.jd.com
 DOMAIN-SUFFIX, ms.jr.jd.com
 
 # --- 拼多多广告 ---
